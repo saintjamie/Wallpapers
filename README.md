@@ -1,12 +1,12 @@
 # Wallpapers
 
-Change your mac wallpaper
+## A Collection of Art
+### How to configure to change your mac wallpaper from cli
 
-Opens new wallpaper every new terminal sesh
-
-Clone this into your home directory
-
-Change wallpaper `wallpaper davinci-1.png`
+1.  Clone this into your home directory
+2.  Append what is in `.bashrc` to your bashrc!
+3.  Remember to source: `source ~/.bashrc`
+4.  Change wallpaper via `wallpaper davinci-1.png`
 
 
 
